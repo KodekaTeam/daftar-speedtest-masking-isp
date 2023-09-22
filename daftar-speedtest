@@ -299,3 +299,4 @@ add address=speedtest.umn.ac.id list=KONEKSI-VPN
 add address=speedtest.routelink.net.id list=KONEKSI-VPN
 add address=www.speedtest.com.sg list=KONEKSI-VPN
 add address=speed.sng.host.co.ug list=KONEKSI-VPN
+add address=bgp.he.net list=KONEKSI-VPN
