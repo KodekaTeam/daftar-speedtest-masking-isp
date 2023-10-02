@@ -1,6 +1,7 @@
 Silahkan import sesuai urutan aturan yang ada di website Mytunnel.web.id
 
 **KAMUFLASE SPEEDTEST MIKTORIK**
+silahkan ganti nama label address-list dan sesuaikan sesuai script yang kalian copas dari web mytunnel.
 
 /ip firewall address-list
 add address=ip-api.com list=KONEKSI-VPN
