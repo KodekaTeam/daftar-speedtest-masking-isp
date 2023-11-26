@@ -304,3 +304,13 @@ add address=bgp.he.net list="MASKING - MyTunnel"
 add address=ipapi.com list="MASKING - MyTunnel"
 add address=www.ipify.org list="MASKING - MyTunnel"
 add address=freeipapi.com list="MASKING - MyTunnel"
+add address=speedtest.its.ac.id list="MASKING - MyTunnel"
+add address=www.nperf.com list="MASKING - MyTunnel"
+add address=noc.kemdikbud.go.id list="MASKING - MyTunnel"
+add address=speedtest.cni.net.id list="MASKING - MyTunnel"
+add address=www.speedcheck.org list="MASKING - MyTunnel"
+add address=speedtest.isbi.ac.id list="MASKING - MyTunnel"
+add address=speedtest.unair.ac.id list="MASKING - MyTunnel"
+add address=speedtest.yam.net.id list="MASKING - MyTunnel"
+
+
