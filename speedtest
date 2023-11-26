@@ -312,5 +312,12 @@ add address=www.speedcheck.org list="MASKING - MyTunnel"
 add address=speedtest.isbi.ac.id list="MASKING - MyTunnel"
 add address=speedtest.unair.ac.id list="MASKING - MyTunnel"
 add address=speedtest.yam.net.id list="MASKING - MyTunnel"
-
+add address=speed.cloudflare.com list="MASKING - MyTunnel"
+add address=speedtest.greenet.id list="MASKING - MyTunnel"
+add address=www.bandwidthplace.com list="MASKING - MyTunnel"
+add address=www.att.com list="MASKING - MyTunnel"
+add address=speedof.me list="MASKING - MyTunnel"
+add address=speedtest.tele2.net list="MASKING - MyTunnel"
+add address=speed.one list="MASKING - MyTunnel"
+add address=speedtest.tele2.net list="MASKING - MyTunnel"
 
