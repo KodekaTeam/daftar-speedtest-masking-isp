@@ -319,5 +319,5 @@ add address=www.att.com list="MASKING - MyTunnel"
 add address=speedof.me list="MASKING - MyTunnel"
 add address=speedtest.tele2.net list="MASKING - MyTunnel"
 add address=speed.one list="MASKING - MyTunnel"
-add address=speedtest.tele2.net list="MASKING - MyTunnel"
+add address=browserleaks.com list="MASKING - MyTunnel"
 
