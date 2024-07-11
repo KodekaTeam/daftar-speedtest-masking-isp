@@ -355,4 +355,5 @@ add address=www.my-ip.io list="MASKING - MyTunnel"
 add address=surfshark.com list="MASKING - MyTunnel"
 add address=ipv4.lookup.test-ipv6.com list="MASKING - MyTunnel"
 add address=ipaddress.my list="MASKING - MyTunnel"
+add address=myip.nl list="MASKING - MyTunnel"
 
