@@ -356,4 +356,4 @@ add address=surfshark.com list="MASKING - MyTunnel"
 add address=ipv4.lookup.test-ipv6.com list="MASKING - MyTunnel"
 add address=ipaddress.my list="MASKING - MyTunnel"
 add address=myip.nl list="MASKING - MyTunnel"
-
+add address=tools.nevacloud.com list="MASKING - MyTunnel"
